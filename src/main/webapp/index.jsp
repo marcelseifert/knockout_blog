@@ -1,7 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
-
 <!doctype html>
 <html>
   <head>  
@@ -107,15 +106,10 @@
     </ul>
   </script> 
  
-  <script src="http://code.jquery.com/jquery-latest.js"></script> 
+  <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script> 
   <script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
   <script src="js/bootstrap.js"></script>  
   <script src="js/knockout-2.2.0.js"></script>
   <script src="js/knockoutblog.js"></script>
-  
-  
- 
-  </body>
- 
-  
+ </body>
 </html>
